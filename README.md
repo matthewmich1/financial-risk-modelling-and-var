@@ -1,4 +1,4 @@
-### **Project: Quantitative Risk Modelling of Global Equity Markets**
+## **Project: Quantitative Risk Modelling of Global Equity Markets**
 
 ### Overview
 Estimated the downside risk of an equally weighted portfolio consisting of the S&P 500 and Nikkei 225. 
@@ -18,7 +18,7 @@ Student-t copulas, and Monte Carlo simulation.
 - Model Selection and Diagnostic Testing
 - Portfolio Risk Management
 
-## Technologies Used
+### Technologies Used
 - R
 - R Markdown
 
